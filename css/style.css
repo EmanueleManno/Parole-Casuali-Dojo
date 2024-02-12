@@ -1,0 +1,17 @@
+/*CSS RESET*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/*Stile del Body*/
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+/*Stile del Contenitore*/
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
